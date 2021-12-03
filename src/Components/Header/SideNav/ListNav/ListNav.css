@@ -1,0 +1,42 @@
+.button1 .MuiTypography-colorTextSecondary{
+    /* color: #b8b8d3 !important; */
+    color: #EFEFF1 !important;
+    font-size: 16px !important;
+    text-transform: capitalize !important;
+    font-weight: 600;
+}
+
+.list .MuiButton-root {
+    width: unset !important;
+}
+
+.list .MuiButton-root:hover {
+    text-decoration: none;
+    background-color:unset !important;
+
+}
+
+.list{
+    text-align: center;
+}
+
+.list .MuiCollapse-wrapper{
+    background-color:#EFEFF1 ;
+    width: 250px;
+}
+
+.button2 .MuiTypography-colorTextSecondary{
+    color: #808C9C !important;
+    text-transform: capitalize !important;
+
+} 
+
+.button2 .MuiTypography-colorTextSecondary:hover{
+    color:#5C6B78 !important;
+
+} 
+
+.collapse .MuiList-root{
+    display: grid;
+    text-align: center;
+}

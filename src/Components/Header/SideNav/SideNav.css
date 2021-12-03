@@ -1,0 +1,102 @@
+.MuiBackdrop-root {
+    background-color: unset !important;
+}
+
+.MuiDrawer-paper {
+    height: 300px !important;
+    top: 13% !important;
+    right: 12% !important;
+    width: 300px !important;
+    padding: 20px !important;
+    border-radius: 10px;
+}
+
+.MuiDrawer-paperAnchorRight {
+    background-color: #3A3053 !important;
+}
+
+
+.Item .MuiTypography-body1 {
+    color:#FFFEFA;
+    font-family: Fraunces ;
+    font-size: 22px ;
+    text-align: center;
+    font-weight: 600;
+
+}
+.Item .MuiTypography-body1:hover {
+    border-bottom: 2px solid;
+    display: inline-block;
+
+
+}
+
+.divider {
+    background-color:#FFFEFA;
+}
+
+a {
+    text-decoration: none;
+}
+
+.List {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.MuiListItem-root {
+    padding-bottom: 0px !important;
+}
+
+.MuiIconButton-root {
+    color: hsl(0, 0%, 75%)!important;
+    padding: 0px !important;
+    width: 0px !important;
+}
+
+.MuiIconButton-root:hover {
+    color: #3A3053!important;
+    background-color: unset !important;
+}
+
+.MuiSvgIcon-root {
+    width: 1.5em !important;
+    height: 1.5em !important;
+}
+
+
+.LoginNav {
+    color: #FFFEFA !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    text-transform: capitalize !important;
+
+}
+
+.LoginNav:hover {
+    text-decoration: none;
+    background-color:unset !important;
+
+
+}
+
+.SignNav {
+    color: #FFFEFA !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    text-transform: capitalize !important;
+    background-color: hsl(180, 66%, 49%) !important;
+    border-radius: 20px !important;
+    width: 200px !important;
+    margin-bottom: 20px !important;
+    
+}
+
+.SignNav:hover {
+    text-decoration: none;
+    background-color: hsl(180, 66%, 49%,0.6) !important;
+}
+
+
+
