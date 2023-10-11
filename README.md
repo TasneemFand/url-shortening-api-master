@@ -15,3 +15,11 @@ Your users should be able to:
 - Receive an error message when the `form` is submitted if:
   The `input` field is empty
 
+### Built with
+ - Semantic HTML5 markup
+ - CSS custom properties
+ - Flexbox
+ - CSS Grid
+ - Mobile-first workflow
+ - React - JS library
+ - [MUI](https://mui.com/)- React library For styled components
